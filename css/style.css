@@ -13,6 +13,8 @@
     min-width: 992px !important;
 }
 
+
+
 .container {
   display: flex;
   justify-content: center;
@@ -27,7 +29,11 @@
 }
 
 .padding-10{
-    padding: 10px;
+    padding: 10%;
+}
+
+.padding-10s{
+    padding: 1%;
 }
 
 .rnd{
