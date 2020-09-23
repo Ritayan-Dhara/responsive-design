@@ -5,29 +5,6 @@ body {
     background: linear-gradient(to right, #3a7bd5, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.bg-nav2{
-    background: #e9f5f4  /* fallback for old browsers */
-}
-
-.container-2 {
-    min-width: 992px !important;
-}
-
-
-
-.container {
-  display: flex;
-  justify-content: center;
-}
-
-.padding-150{
-    padding: 150px;
-}
-
-.padding-275{
-    padding: 275px;
-}
-
 .padding-10{
     padding: 10%;
 }
@@ -35,8 +12,3 @@ body {
 .padding-10s{
     padding: 1%;
 }
-
-.rnd{
-    border-radius: 1rem;
-}
-
